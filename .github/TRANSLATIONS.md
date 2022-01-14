@@ -4,22 +4,24 @@ Thank you for being interested in making Call of Cthulhu 7th Edition for Foundry
 
 The following translations have been abandoned **cn**, **cs**, [are you able to help?](./ABANDONED.md)
 
-| Key                                                         |    de    |    es    |    fr    |    ja    |    ko    |    pl    |  pt-BR   |    sv    |  zh-TW   |
-| :---------------------------------------------------------- | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
-| **Remaining**:                                              |  **10**  |  **4**   |  **6**   |  **6**   |  **13**  |  **12**  |  **6**   |  **4**   |  **6**   |
-| [CoC7.Copied](#coc7copied)                                  | &#x274C; | &#9989;  | &#9989;  | &#9989;  | &#x274C; | &#x274C; | &#9989;  | &#9989;  | &#9989;  |
-| [CoC7.EraAvailability](#coc7eraavailability)                | &#x274C; | &#9989;  | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#9989;  | &#x274C; |
-| [CoC7.German](#coc7german)                                  | &#9989;  | &#9989;  | &#9989;  | &#9989;  | &#x274C; | &#x274C; | &#9989;  | &#9989;  | &#9989;  |
-| [CoC7.Migrate.TriggerButton](#coc7migratetriggerbutton)     | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; |
-| [CoC7.Migrate.TriggerContents](#coc7migratetriggercontents) | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; |
-| [CoC7.Migrate.TriggerRestart](#coc7migratetriggerrestart)   | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; |
-| [CoC7.Migrate.TriggerTitle](#coc7migratetriggertitle)       | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; |
-| [CoC7.NotEnoughMagicPoints](#coc7notenoughmagicpoints)      | &#9989;  | &#9989;  | &#9989;  | &#9989;  | &#x274C; | &#x274C; | &#9989;  | &#9989;  | &#9989;  |
-| [CoC7.Polish](#coc7polish)                                  | &#x274C; | &#9989;  | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#9989;  | &#x274C; |
-| [CoC7.allActors](#coc7allactors)                            | &#x274C; | &#9989;  | &#9989;  | &#9989;  | &#x274C; | &#x274C; | &#9989;  | &#9989;  | &#9989;  |
-| [CoC7.getTheExample](#coc7gettheexample)                    | &#x274C; | &#9989;  | &#9989;  | &#9989;  | &#x274C; | &#x274C; | &#9989;  | &#9989;  | &#9989;  |
-| [CoC7.restTargets](#coc7resttargets)                        | &#x274C; | &#9989;  | &#9989;  | &#9989;  | &#x274C; | &#x274C; | &#9989;  | &#9989;  | &#9989;  |
-| [SETTINGS.DefaultDifficulty](#settingsdefaultdifficulty)    | &#9989;  | &#9989;  | &#9989;  | &#9989;  | &#x274C; | &#9989;  | &#9989;  | &#9989;  | &#9989;  |
+| Key                                                            |    de    |    es    |    fr    |    ja    |    ko    |    pl    |  pt-BR   |    sv    |  zh-TW   |
+| :------------------------------------------------------------- | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
+| **Remaining**:                                                 |  **10**  |  **6**   |  **8**   |  **8**   |  **15**  |  **14**  |  **8**   |  **6**   |  **8**   |
+| [CoC7.Copied](#coc7copied)                                     | &#x274C; | &#9989;  | &#9989;  | &#9989;  | &#x274C; | &#x274C; | &#9989;  | &#9989;  | &#9989;  |
+| [CoC7.EraAvailability](#coc7eraavailability)                   | &#x274C; | &#9989;  | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#9989;  | &#x274C; |
+| [CoC7.German](#coc7german)                                     | &#9989;  | &#9989;  | &#9989;  | &#9989;  | &#x274C; | &#x274C; | &#9989;  | &#9989;  | &#9989;  |
+| [CoC7.Migrate.TriggerButton](#coc7migratetriggerbutton)        | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; |
+| [CoC7.Migrate.TriggerContents](#coc7migratetriggercontents)    | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; |
+| [CoC7.Migrate.TriggerRestart](#coc7migratetriggerrestart)      | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; |
+| [CoC7.Migrate.TriggerTitle](#coc7migratetriggertitle)          | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; |
+| [CoC7.NotEnoughMagicPoints](#coc7notenoughmagicpoints)         | &#9989;  | &#9989;  | &#9989;  | &#9989;  | &#x274C; | &#x274C; | &#9989;  | &#9989;  | &#9989;  |
+| [CoC7.Polish](#coc7polish)                                     | &#x274C; | &#9989;  | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#9989;  | &#x274C; |
+| [CoC7.SpellAlreadyLearned](#coc7spellalreadylearned)           | &#9989;  | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; |
+| [CoC7.SpellSuccessfullyLearned](#coc7spellsuccessfullylearned) | &#9989;  | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; | &#x274C; |
+| [CoC7.allActors](#coc7allactors)                               | &#x274C; | &#9989;  | &#9989;  | &#9989;  | &#x274C; | &#x274C; | &#9989;  | &#9989;  | &#9989;  |
+| [CoC7.getTheExample](#coc7gettheexample)                       | &#x274C; | &#9989;  | &#9989;  | &#9989;  | &#x274C; | &#x274C; | &#9989;  | &#9989;  | &#9989;  |
+| [CoC7.restTargets](#coc7resttargets)                           | &#x274C; | &#9989;  | &#9989;  | &#9989;  | &#x274C; | &#x274C; | &#9989;  | &#9989;  | &#9989;  |
+| [SETTINGS.DefaultDifficulty](#settingsdefaultdifficulty)       | &#9989;  | &#9989;  | &#9989;  | &#9989;  | &#x274C; | &#9989;  | &#9989;  | &#9989;  | &#9989;  |
 
 ##### CoC7.Copied
 
@@ -56,6 +58,14 @@ The following translations have been abandoned **cn**, **cs**, [are you able to 
 ##### CoC7.Polish
 
 ` "CoC7.Polish": "Polish",`
+
+##### CoC7.SpellAlreadyLearned
+
+` "CoC7.SpellAlreadyLearned": "Spell named ('{spell}') was already learned.",`
+
+##### CoC7.SpellSuccessfullyLearned
+
+` "CoC7.SpellSuccessfullyLearned": "Spell '{spell}' was learned successfully!",`
 
 ##### CoC7.allActors
 
